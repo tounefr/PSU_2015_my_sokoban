@@ -6,4 +6,5 @@ Sokoban en termcaps
 
 # Compilation
 -------------
+Nécessite la lib ncurses  
 `make re && ./my_sokoban map`
